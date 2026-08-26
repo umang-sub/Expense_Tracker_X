@@ -225,3 +225,7 @@ The exact package requirements live in [`requirements.txt`](requirements.txt).
 <p align="center">
   <strong>Log with intent. Read the pattern. Spend with clarity. ✨</strong>
 </p>
+
+## Project demonstration
+
+Watch the complete project video: [Smart Expense Tracker demo](https://drive.google.com/file/d/10XmvjQaFzqHRRjjSg3e7P_88JZkqzwD4/view?usp=sharing)
