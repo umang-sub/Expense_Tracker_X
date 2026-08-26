@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="860" viewBox="0 0 1600 860" role="img" aria-labelledby="title desc">
+  <title id="title">Expense Tracker analytics suite</title>
+  <desc id="desc">Four stylised cards representing bar, line, pie, and histogram visualisations available in the app.</desc>
+  <defs>
+    <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1225"/><stop offset=".5" stop-color="#151c42"/><stop offset="1" stop-color="#261348"/></linearGradient>
+    <linearGradient id="aqua" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#0ac8dd"/><stop offset="1" stop-color="#77f8ef"/></linearGradient>
+    <linearGradient id="violet" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#7357f6"/><stop offset="1" stop-color="#c699ff"/></linearGradient>
+    <linearGradient id="pink" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#e13b93"/><stop offset="1" stop-color="#ff9fcd"/></linearGradient>
+    <filter id="lift" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".36"/></filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#d6e1ff" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1600" height="860" fill="url(#back)"/>
+  <rect width="1600" height="860" fill="url(#grid)"/>
+  <circle cx="150" cy="100" r="230" fill="#00d2e8" opacity=".09"/><circle cx="1450" cy="770" r="270" fill="#be4fff" opacity=".1"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif">
+    <text x="800" y="92" text-anchor="middle" fill="#fff" font-size="45" font-weight="800" letter-spacing="-1">Four ways to see your spending</text>
+    <text x="800" y="129" text-anchor="middle" fill="#aab8d7" font-size="19">Switch perspectives. Spot the story behind every transaction.</text>
+    <g transform="translate(104 182)" filter="url(#lift)">
+      <rect width="662" height="282" rx="26" fill="#ffffff" fill-opacity=".075" stroke="#cfe9ff" stroke-opacity=".18"/>
+      <g transform="translate(31 35)"><rect width="44" height="44" rx="13" fill="#22d8d6" fill-opacity=".17"/><path d="M12 31h6V19h-6zm13 0h6V11h-6zm13 0h6V23h-6z" fill="#6df6ec"/></g>
+      <text x="94" y="58" fill="#fff" font-size="23" font-weight="750">Category balance</text><text x="94" y="84" fill="#9fb2d1" font-size="15">Bar chart • compare what each category costs</text>
+      <g transform="translate(46 124)"><path d="M0 113h560M0 75h560M0 37h560" stroke="#d0ddff" stroke-opacity=".11"/><rect x="22" y="48" width="48" height="65" rx="7" fill="url(#aqua)"/><rect x="111" y="25" width="48" height="88" rx="7" fill="url(#violet)"/><rect x="200" y="61" width="48" height="52" rx="7" fill="url(#aqua)"/><rect x="289" y="7" width="48" height="106" rx="7" fill="url(#pink)"/><rect x="378" y="39" width="48" height="74" rx="7" fill="url(#violet)"/><rect x="467" y="51" width="48" height="62" rx="7" fill="url(#aqua)"/><text x="291" y="-8" text-anchor="middle" fill="#ffc2dd" font-size="13" font-weight="700">TOP</text></g>
+    </g>
+    <g transform="translate(834 182)" filter="url(#lift)">
+      <rect width="662" height="282" rx="26" fill="#ffffff" fill-opacity=".075" stroke="#cfe9ff" stroke-opacity=".18"/>
+      <g transform="translate(31 35)"><rect width="44" height="44" rx="13" fill="#9680ff" fill-opacity=".19"/><path d="M11 30l8-9 7 5 10-14" fill="none" stroke="#c4b7ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+      <text x="94" y="58" fill="#fff" font-size="23" font-weight="750">Spending momentum</text><text x="94" y="84" fill="#9fb2d1" font-size="15">Line graph • trace daily totals over time</text>
+      <g transform="translate(46 121)"><path d="M0 116h565M0 78h565M0 40h565" stroke="#d0ddff" stroke-opacity=".11"/><path d="M2 99C37 93 48 52 80 76s58 37 92 6 66 27 98-12 56-55 91-20 55 21 81-7 67-38 112-83" fill="none" stroke="#78f8ee" stroke-width="5" stroke-linecap="round"/><path d="M2 99C37 93 48 52 80 76s58 37 92 6 66 27 98-12 56-55 91-20 55 21 81-7 67-38 112-83V116H2Z" fill="#5d8dff" opacity=".15"/><g fill="#fff" stroke="#7bf7ed" stroke-width="3"><circle cx="80" cy="76" r="4"/><circle cx="172" cy="82" r="4"/><circle cx="270" cy="70" r="4"/><circle cx="361" cy="50" r="4"/><circle cx="442" cy="43" r="4"/><circle cx="554" cy="10" r="4"/></g></g>
+    </g>
+    <g transform="translate(104 518)" filter="url(#lift)">
+      <rect width="662" height="282" rx="26" fill="#ffffff" fill-opacity=".075" stroke="#cfe9ff" stroke-opacity=".18"/>
+      <g transform="translate(31 35)"><rect width="44" height="44" rx="13" fill="#ff77b2" fill-opacity=".17"/><path d="M22 9v13h13A13 13 0 0 0 22 9zm-3 4a13 13 0 1 0 16 13H19z" fill="#ffb3d4"/></g>
+      <text x="94" y="58" fill="#fff" font-size="23" font-weight="750">Share of wallet</text><text x="94" y="84" fill="#9fb2d1" font-size="15">Pie chart • understand proportional distribution</text>
+      <g transform="translate(125 109)"><circle cx="94" cy="81" r="75" fill="none" stroke="#684ef4" stroke-width="38" stroke-dasharray="118 353" transform="rotate(-90 94 81)"/><circle cx="94" cy="81" r="75" fill="none" stroke="#69eee4" stroke-width="38" stroke-dasharray="95 376" stroke-dashoffset="-125" transform="rotate(-90 94 81)"/><circle cx="94" cy="81" r="75" fill="none" stroke="#ff78b8" stroke-width="38" stroke-dasharray="80 391" stroke-dashoffset="-227" transform="rotate(-90 94 81)"/><circle cx="94" cy="81" r="75" fill="none" stroke="#f6c85f" stroke-width="38" stroke-dasharray="59 412" stroke-dashoffset="-314" transform="rotate(-90 94 81)"/><text x="94" y="77" text-anchor="middle" fill="#fff" font-size="18" font-weight="800">7</text><text x="94" y="97" text-anchor="middle" fill="#a7bad7" font-size="11" font-weight="700">CATEGORIES</text></g><g transform="translate(365 125)" font-size="15" font-weight="650"><circle cx="0" cy="0" r="6" fill="#684ef4"/><text x="17" y="5" fill="#dce8ff">Shopping</text><circle cx="0" cy="39" r="6" fill="#69eee4"/><text x="17" y="44" fill="#dce8ff">Food</text><circle cx="0" cy="78" r="6" fill="#ff78b8"/><text x="17" y="83" fill="#dce8ff">Entertainment</text><circle cx="0" cy="117" r="6" fill="#f6c85f"/><text x="17" y="122" fill="#dce8ff">More</text></g>
+    </g>
+    <g transform="translate(834 518)" filter="url(#lift)">
+      <rect width="662" height="282" rx="26" fill="#ffffff" fill-opacity=".075" stroke="#cfe9ff" stroke-opacity=".18"/>
+      <g transform="translate(31 35)"><rect width="44" height="44" rx="13" fill="#ffca66" fill-opacity=".18"/><path d="M11 31V20h6v11zm9 0V12h6v19zm9 0V17h6v14z" fill="#ffe5a4"/></g>
+      <text x="94" y="58" fill="#fff" font-size="23" font-weight="750">Transaction frequency</text><text x="94" y="84" fill="#9fb2d1" font-size="15">Histogram • reveal the shape of individual expenses</text>
+      <g transform="translate(45 125)"><path d="M0 111h564" stroke="#d0ddff" stroke-opacity=".18"/><rect x="26" y="71" width="47" height="40" rx="5" fill="url(#violet)"/><rect x="78" y="44" width="47" height="67" rx="5" fill="url(#violet)"/><rect x="130" y="18" width="47" height="93" rx="5" fill="url(#aqua)"/><rect x="182" y="5" width="47" height="106" rx="5" fill="url(#aqua)"/><rect x="234" y="23" width="47" height="88" rx="5" fill="url(#aqua)"/><rect x="286" y="43" width="47" height="68" rx="5" fill="url(#pink)"/><rect x="338" y="67" width="47" height="44" rx="5" fill="url(#pink)"/><rect x="390" y="82" width="47" height="29" rx="5" fill="url(#pink)"/><rect x="442" y="93" width="47" height="18" rx="5" fill="url(#pink)"/><path d="M21 88C68 58 91 27 139 20s76-9 100 8 56 61 109 62 74-21 133 10" fill="none" stroke="#fff" stroke-opacity=".82" stroke-width="3"/></g>
+    </g>
+  </g>
+</svg>

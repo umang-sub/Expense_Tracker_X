@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="720" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc">
+  <title id="title">Smart Expense Tracker</title>
+  <desc id="desc">A luminous finance dashboard with spend analytics, category cards, and a glowing expense ledger.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071427"/>
+      <stop offset="0.48" stop-color="#102b54"/>
+      <stop offset="1" stop-color="#371b64"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientTransform="translate(1180 150) rotate(128) scale(520 610)">
+      <stop stop-color="#23d7ff" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#23d7ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="pinkGlow" cx="0" cy="0" r="1" gradientTransform="translate(190 640) rotate(-28) scale(510 420)">
+      <stop stop-color="#ff5ca8" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#ff5ca8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".055"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#5ce1e6"/>
+      <stop offset=".52" stop-color="#8a7dff"/>
+      <stop offset="1" stop-color="#ff73ba"/>
+    </linearGradient>
+    <linearGradient id="barA" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#754cff"/><stop offset="1" stop-color="#aa98ff"/></linearGradient>
+    <linearGradient id="barB" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#00a9d6"/><stop offset="1" stop-color="#55e4ff"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#000" flood-opacity=".32"/></filter>
+    <filter id="blur"><feGaussianBlur stdDeviation="38"/></filter>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b9ddff" opacity=".21"/></pattern>
+  </defs>
+  <rect width="1600" height="720" fill="url(#bg)"/>
+  <rect width="1600" height="720" fill="url(#dots)" opacity=".55"/>
+  <ellipse cx="1180" cy="150" rx="520" ry="420" fill="url(#cyanGlow)"/>
+  <ellipse cx="190" cy="640" rx="500" ry="350" fill="url(#pinkGlow)"/>
+  <circle cx="1470" cy="615" r="185" fill="#7954ff" opacity=".15" filter="url(#blur)"/>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif">
+    <g transform="translate(104 90)">
+      <g transform="translate(0 0)">
+        <rect width="172" height="42" rx="21" fill="#78f7d4" fill-opacity=".16" stroke="#78f7d4" stroke-opacity=".45"/>
+        <circle cx="25" cy="21" r="6" fill="#78f7d4"/>
+        <text x="43" y="27" fill="#caffef" font-size="15" font-weight="700" letter-spacing="1.6">FINANCE, CLARIFIED</text>
+      </g>
+      <text x="0" y="120" fill="#fff" font-size="65" font-weight="800" letter-spacing="-2">Smart Expense</text>
+      <text x="0" y="193" fill="url(#line)" font-size="65" font-weight="800" letter-spacing="-2">Tracker</text>
+      <text x="0" y="250" fill="#c7d5ee" font-size="21" font-weight="400">A clean command-line companion for logging, analysing</text>
+      <text x="0" y="281" fill="#c7d5ee" font-size="21" font-weight="400">and visualising every rupee, dollar, or decision.</text>
+      <g transform="translate(0 331)">
+        <rect width="178" height="76" rx="18" fill="url(#card)" stroke="#fff" stroke-opacity=".16"/>
+        <text x="22" y="31" fill="#a7badb" font-size="13" font-weight="700" letter-spacing="1.1">TRACK EVERY DETAIL</text>
+        <text x="22" y="58" fill="#fff" font-size="20" font-weight="700">Validated entries</text>
+        <rect x="195" width="178" height="76" rx="18" fill="url(#card)" stroke="#fff" stroke-opacity=".16"/>
+        <text x="217" y="31" fill="#a7badb" font-size="13" font-weight="700" letter-spacing="1.1">MAKE IT VISIBLE</text>
+        <text x="217" y="58" fill="#fff" font-size="20" font-weight="700">4 chart modes</text>
+      </g>
+      <g transform="translate(0 460)">
+        <circle cx="18" cy="18" r="18" fill="#fff" fill-opacity=".12"/>
+        <path d="M10 18l5 5 11-12" fill="none" stroke="#70f4ce" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="48" y="24" fill="#dbe7ff" font-size="17">Pandas • NumPy • Matplotlib • Seaborn</text>
+      </g>
+    </g>
+
+    <g transform="translate(835 73)" filter="url(#shadow)">
+      <rect width="650" height="565" rx="32" fill="#091a35" fill-opacity=".78" stroke="#c9e9ff" stroke-opacity=".25"/>
+      <rect x="1" y="1" width="648" height="74" rx="31" fill="#fff" fill-opacity=".07"/>
+      <circle cx="36" cy="37" r="7" fill="#ff709f"/><circle cx="60" cy="37" r="7" fill="#ffd36a"/><circle cx="84" cy="37" r="7" fill="#6ef3c6"/>
+      <text x="117" y="43" fill="#d8e7ff" font-size="17" font-weight="700">YOUR SPENDING PULSE</text>
+      <rect x="29" y="102" width="282" height="116" rx="20" fill="#fff" fill-opacity=".075"/>
+      <text x="52" y="135" fill="#9db0ce" font-size="14" font-weight="700" letter-spacing="1.3">TOTAL SPEND</text>
+      <text x="52" y="185" fill="#fff" font-size="40" font-weight="800">$47,085</text>
+      <path d="M225 177c16-2 25-12 34-31 8 14 17 16 30 3" fill="none" stroke="#6ef3c6" stroke-width="4" stroke-linecap="round"/>
+      <text x="52" y="203" fill="#70f4ce" font-size="14" font-weight="700">↑ healthy insight</text>
+      <rect x="330" y="102" width="290" height="116" rx="20" fill="#fff" fill-opacity=".075"/>
+      <text x="353" y="135" fill="#9db0ce" font-size="14" font-weight="700" letter-spacing="1.3">AVERAGE TRANSACTION</text>
+      <text x="353" y="185" fill="#fff" font-size="40" font-weight="800">$188.34</text>
+      <circle cx="567" cy="164" r="27" fill="#8069ff" fill-opacity=".22"/><path d="M559 164h16M567 156v16" stroke="#c9c0ff" stroke-width="3" stroke-linecap="round"/>
+
+      <g transform="translate(29 249)">
+        <rect width="591" height="278" rx="20" fill="#fff" fill-opacity=".065"/>
+        <text x="23" y="35" fill="#eff5ff" font-size="17" font-weight="700">Weekly spending velocity</text>
+        <text x="23" y="59" fill="#9db0ce" font-size="13">Find patterns before they become habits.</text>
+        <g stroke="#b9d5ff" stroke-opacity=".12"><path d="M25 94h540M25 142h540M25 190h540M25 238h540"/></g>
+        <path d="M31 216 C70 200 85 220 122 184 S179 145 211 164 S274 199 307 131 S365 91 400 129 S450 166 484 110 S532 96 560 57" fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+        <path d="M31 216 C70 200 85 220 122 184 S179 145 211 164 S274 199 307 131 S365 91 400 129 S450 166 484 110 S532 96 560 57 V245 H31Z" fill="url(#line)" opacity=".13"/>
+        <g fill="#fff" stroke="#7cf0ef" stroke-width="3"><circle cx="122" cy="184" r="5"/><circle cx="211" cy="164" r="5"/><circle cx="307" cy="131" r="5"/><circle cx="400" cy="129" r="5"/><circle cx="484" cy="110" r="5"/><circle cx="560" cy="57" r="5"/></g>
+        <g fill="#91a8ca" font-size="12" font-weight="600"><text x="26" y="266">MON</text><text x="115" y="266">TUE</text><text x="204" y="266">WED</text><text x="294" y="266">THU</text><text x="383" y="266">FRI</text><text x="472" y="266">SAT</text><text x="550" y="266">SUN</text></g>
+      </g>
+      <g transform="translate(495 280)">
+        <rect width="105" height="75" rx="17" fill="#111d46" stroke="#80f2e0" stroke-opacity=".48"/>
+        <text x="15" y="28" fill="#a8bad7" font-size="11" font-weight="700">TOP CATEGORY</text>
+        <text x="15" y="53" fill="#fff" font-size="16" font-weight="800">Shopping</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,251 @@
+Date,Amount,Category,Description
+2025-09-01,88.88,Health,Vitamins
+2025-09-05,341.18,Food,Snacks
+2025-09-07,285.04,Health,Vitamins
+2025-09-07,335.17,Shopping,Home goods
+2025-09-08,287.81,Health,Pharmacy
+2025-09-08,42.46,Other,Miscellaneous
+2025-09-08,125.12,Transport,Uber/Lyft
+2025-09-09,60.72,Transport,Uber/Lyft
+2025-09-10,166.47,Transport,Bus ticket
+2025-09-10,345.32,Transport,Uber/Lyft
+2025-09-10,332.65,Other,Donation
+2025-09-14,89.26,Entertainment,Movie tickets
+2025-09-15,233.61,Food,Coffee Shop
+2025-09-16,143.5,Shopping,Home goods
+2025-09-17,62.83,Other,Miscellaneous
+2025-09-18,253.48,Food,Delivery
+2025-09-19,40.87,Food,Snacks
+2025-09-19,29.9,Food,Delivery
+2025-09-19,231.49,Health,Pharmacy
+2025-09-19,41.29,Health,Vitamins
+2025-09-22,12.21,Utilities,Internet
+2025-09-30,139.97,Food,Restaurant
+2025-10-01,259.01,Food,Restaurant
+2025-10-02,184.34,Entertainment,Movie tickets
+2025-10-03,242.54,Utilities,Electricity bill
+2025-10-03,205.17,Food,Groceries
+2025-10-05,244.78,Transport,Train ticket
+2025-10-05,121.95,Food,Groceries
+2025-10-07,4.82,Health,Doctor visit
+2025-10-08,307.67,Other,Donation
+2025-10-08,194.85,Other,Donation
+2025-10-10,301.56,Other,Miscellaneous
+2025-10-13,214.09,Utilities,Internet
+2025-10-16,274.52,Shopping,Shoes
+2025-10-21,327.43,Entertainment,Video games
+2025-10-23,338.84,Utilities,Phone bill
+2025-10-24,219.43,Transport,Uber/Lyft
+2025-10-27,265.36,Entertainment,Streaming Subscription
+2025-10-28,292.26,Entertainment,Streaming Subscription
+2025-10-28,250.19,Transport,Gas
+2025-10-30,187.7,Entertainment,Movie tickets
+2025-11-02,319.35,Health,Gym membership
+2025-11-02,338.71,Shopping,Shoes
+2025-11-04,332.1,Transport,Metro
+2025-11-05,207.87,Health,Gym membership
+2025-11-06,186.7,Entertainment,Streaming Subscription
+2025-11-08,179.17,Utilities,Electricity bill
+2025-11-09,34.54,Other,Gift
+2025-11-11,279.57,Shopping,Shoes
+2025-11-12,14.93,Food,Snacks
+2025-11-13,44.22,Transport,Uber/Lyft
+2025-11-17,283.52,Transport,Metro
+2025-11-18,88.5,Transport,Train ticket
+2025-11-18,90.92,Utilities,Phone bill
+2025-11-20,292.25,Health,Pharmacy
+2025-11-21,315.57,Utilities,Internet
+2025-11-22,297.26,Food,Restaurant
+2025-11-22,311.14,Transport,Bus ticket
+2025-11-23,296.47,Other,Donation
+2025-11-27,13.04,Other,Miscellaneous
+2025-11-29,172.2,Food,Delivery
+2025-11-30,267.32,Entertainment,Streaming Subscription
+2025-12-03,315.43,Transport,Gas
+2025-12-05,291.27,Other,Gift
+2025-12-06,275.22,Entertainment,Concert
+2025-12-06,126.34,Transport,Uber/Lyft
+2025-12-08,309.48,Utilities,Water bill
+2025-12-09,106.05,Utilities,Electricity bill
+2025-12-09,346.26,Food,Coffee Shop
+2025-12-10,216.09,Health,Vitamins
+2025-12-14,135.93,Entertainment,Streaming Subscription
+2025-12-14,56.59,Food,Restaurant
+2025-12-15,241.14,Shopping,Shoes
+2025-12-16,288.46,Shopping,Shoes
+2025-12-21,55.62,Other,Gift
+2025-12-24,168.66,Utilities,Water bill
+2025-12-25,2.78,Other,Gift
+2025-12-25,82.51,Transport,Uber/Lyft
+2025-12-29,71.71,Shopping,Shoes
+2025-12-29,232.54,Entertainment,Video games
+2025-12-31,166.41,Shopping,Clothes
+2026-01-01,349.55,Shopping,Clothes
+2026-01-01,342.93,Shopping,Shoes
+2026-01-04,47.07,Utilities,Internet
+2026-01-10,266.1,Shopping,Shoes
+2026-01-13,212.99,Transport,Train ticket
+2026-01-16,132.94,Food,Coffee Shop
+2026-01-18,167.72,Utilities,Electricity bill
+2026-01-23,88.43,Entertainment,Streaming Subscription
+2026-01-23,67.09,Food,Delivery
+2026-01-24,261.82,Entertainment,Streaming Subscription
+2026-01-26,96.03,Utilities,Electricity bill
+2026-01-30,301.51,Utilities,Electricity bill
+2026-01-31,185.08,Entertainment,Concert
+2026-01-31,260.16,Other,Gift
+2026-02-01,105.83,Health,Pharmacy
+2026-02-01,324.25,Entertainment,Video games
+2026-02-02,175.47,Utilities,Water bill
+2026-02-05,291.59,Health,Doctor visit
+2026-02-10,135.55,Transport,Uber/Lyft
+2026-02-13,10.25,Shopping,Shoes
+2026-02-14,336.75,Other,Donation
+2026-02-14,108.61,Utilities,Internet
+2026-02-15,236.79,Other,Gift
+2026-02-16,262.78,Food,Groceries
+2026-02-16,30.06,Shopping,Home goods
+2026-02-21,73.7,Health,Pharmacy
+2026-02-22,220.22,Transport,Uber/Lyft
+2026-02-24,306.98,Other,Gift
+2026-02-24,294.25,Health,Vitamins
+2026-02-25,169.81,Utilities,Water bill
+2026-02-25,117.07,Shopping,Clothes
+2026-02-28,113.83,Other,Gift
+2026-03-01,125.49,Utilities,Phone bill
+2026-03-02,240.18,Shopping,Clothes
+2026-03-03,26.55,Food,Snacks
+2026-03-03,300.66,Entertainment,Video games
+2026-03-04,96.53,Transport,Train ticket
+2026-03-04,150.37,Food,Coffee Shop
+2026-03-05,229.91,Shopping,Home goods
+2026-03-06,16.81,Other,Gift
+2026-03-08,270.16,Food,Groceries
+2026-03-12,338.06,Shopping,Shoes
+2026-03-12,206.91,Utilities,Electricity bill
+2026-03-16,111.72,Entertainment,Video games
+2026-03-16,209.81,Health,Doctor visit
+2026-03-17,259.29,Shopping,Shoes
+2026-03-17,279.85,Shopping,Home goods
+2026-03-18,16.26,Food,Snacks
+2026-03-18,258.84,Entertainment,Streaming Subscription
+2026-03-18,268.55,Transport,Bus ticket
+2026-03-18,52.83,Food,Restaurant
+2026-03-23,7.28,Food,Snacks
+2026-03-24,84.57,Entertainment,Movie tickets
+2026-03-24,253.75,Shopping,Clothes
+2026-03-25,238.43,Utilities,Phone bill
+2026-03-26,101.59,Shopping,Home goods
+2026-03-26,134.54,Transport,Gas
+2026-03-26,330.85,Health,Pharmacy
+2026-03-27,283.91,Shopping,Clothes
+2026-03-28,221.18,Entertainment,Video games
+2026-03-29,201.68,Other,Donation
+2026-03-29,250.05,Other,Miscellaneous
+2026-03-31,100.22,Other,Donation
+2026-04-01,269.05,Transport,Train ticket
+2026-04-02,336.77,Health,Gym membership
+2026-04-04,131.29,Food,Snacks
+2026-04-04,160.45,Transport,Metro
+2026-04-06,24.13,Food,Snacks
+2026-04-08,109.39,Health,Gym membership
+2026-04-09,3.21,Health,Doctor visit
+2026-04-10,252.86,Transport,Train ticket
+2026-04-12,34.05,Health,Vitamins
+2026-04-13,35.71,Utilities,Electricity bill
+2026-04-14,19.32,Food,Coffee Shop
+2026-04-14,43.69,Food,Delivery
+2026-04-15,347.38,Transport,Train ticket
+2026-04-15,240.64,Food,Coffee Shop
+2026-04-16,138.96,Entertainment,Movie tickets
+2026-04-19,138.21,Food,Delivery
+2026-04-20,50.87,Shopping,Home goods
+2026-04-21,136.96,Food,Delivery
+2026-04-22,181.82,Utilities,Water bill
+2026-04-23,214.41,Food,Snacks
+2026-04-23,18.73,Other,Gift
+2026-04-24,113.33,Health,Gym membership
+2026-04-24,325.62,Transport,Metro
+2026-04-25,227.44,Utilities,Phone bill
+2026-04-25,17.34,Transport,Metro
+2026-04-25,4.99,Entertainment,Video games
+2026-04-26,59.01,Shopping,Clothes
+2026-04-30,135.7,Other,Miscellaneous
+2026-04-30,112.32,Shopping,Home goods
+2026-05-01,339.42,Utilities,Electricity bill
+2026-05-06,6.42,Health,Vitamins
+2026-05-07,348.29,Other,Miscellaneous
+2026-05-07,181.14,Entertainment,Movie tickets
+2026-05-07,25.22,Food,Restaurant
+2026-05-08,339.22,Entertainment,Streaming Subscription
+2026-05-10,306.4,Utilities,Water bill
+2026-05-12,144.21,Entertainment,Movie tickets
+2026-05-13,169.18,Transport,Train ticket
+2026-05-15,99.43,Food,Delivery
+2026-05-15,125.3,Health,Pharmacy
+2026-05-17,152.77,Food,Groceries
+2026-05-18,266.76,Shopping,Home goods
+2026-05-18,201.05,Shopping,Clothes
+2026-05-19,94.58,Other,Donation
+2026-05-20,132.63,Other,Gift
+2026-05-22,344.92,Food,Groceries
+2026-05-24,15.57,Entertainment,Streaming Subscription
+2026-05-26,154.52,Shopping,Electronics
+2026-05-29,201.32,Food,Snacks
+2026-05-31,266.19,Entertainment,Streaming Subscription
+2026-06-02,73.09,Entertainment,Video games
+2026-06-02,295.85,Other,Miscellaneous
+2026-06-05,86.27,Food,Snacks
+2026-06-08,120.1,Health,Vitamins
+2026-06-08,267.99,Entertainment,Video games
+2026-06-11,96.93,Food,Delivery
+2026-06-12,256.57,Utilities,Phone bill
+2026-06-15,189.58,Shopping,Shoes
+2026-06-15,74.42,Utilities,Internet
+2026-06-18,243.5,Entertainment,Movie tickets
+2026-06-19,138.68,Transport,Metro
+2026-06-19,329.5,Other,Donation
+2026-06-19,100.74,Food,Snacks
+2026-06-20,79.07,Other,Gift
+2026-06-21,202.7,Food,Restaurant
+2026-06-21,161.23,Entertainment,Concert
+2026-06-24,220.21,Other,Donation
+2026-06-25,50.14,Entertainment,Streaming Subscription
+2026-06-28,280.94,Health,Doctor visit
+2026-06-29,65.12,Food,Delivery
+2026-06-29,269.29,Health,Doctor visit
+2026-07-01,297.86,Entertainment,Streaming Subscription
+2026-07-02,236.4,Utilities,Phone bill
+2026-07-04,53.5,Health,Vitamins
+2026-07-07,71.55,Transport,Gas
+2026-07-08,254.11,Food,Groceries
+2026-07-12,256.16,Utilities,Phone bill
+2026-07-14,309.5,Shopping,Clothes
+2026-07-14,301.3,Utilities,Electricity bill
+2026-07-17,86.86,Utilities,Water bill
+2026-07-18,190.29,Shopping,Clothes
+2026-07-19,317.96,Food,Delivery
+2026-07-22,168.7,Utilities,Phone bill
+2026-07-23,349.54,Health,Gym membership
+2026-07-24,257.77,Other,Gift
+2026-07-24,62.06,Food,Delivery
+2026-07-30,330.15,Utilities,Phone bill
+2026-07-31,222.87,Utilities,Internet
+2026-08-01,287.03,Transport,Train ticket
+2026-08-07,236.1,Food,Delivery
+2026-08-10,158.69,Entertainment,Streaming Subscription
+2026-08-10,52.88,Entertainment,Movie tickets
+2026-08-11,114.65,Health,Vitamins
+2026-08-11,326.39,Utilities,Internet
+2026-08-15,293.61,Other,Gift
+2026-08-15,290.28,Food,Delivery
+2026-08-16,54.1,Transport,Bus ticket
+2026-08-16,172.02,Entertainment,Movie tickets
+2026-08-18,338.06,Entertainment,Streaming Subscription
+2026-08-18,332.55,Shopping,Clothes
+2026-08-20,284.4,Health,Doctor visit
+2026-08-20,230.45,Food,Restaurant
+2026-08-23,248.48,Shopping,Clothes
+2026-08-23,288.29,Health,Vitamins
+2026-08-25,176.27,Transport,Bus ticket
+2026-08-25,294.9,Other,Donation
