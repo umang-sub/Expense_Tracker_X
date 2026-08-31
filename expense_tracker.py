@@ -53,7 +53,8 @@ class ExpenseVisualizer:
 
         category_totals = df.groupby('Category', as_index=False)['Amount'].sum()
         fig, ax = plt.subplots(figsize=(10, 5))
-        sns.barplot(data=category_totals, x='Category', y='Amount', palette='muted', ax=ax)
+        colors = sns.color_palette('muted', n_colors=len(category_totals))
+        ax.bar(category_totals['Category'], category_totals['Amount'], color=colors)
         ax.set_title('Total Expenses by Category', fontsize=16, fontweight='bold')
         ax.set_xlabel('Expense Category')
         ax.set_ylabel('Total Spent')
@@ -233,7 +234,7 @@ class ExpenseTracker:
 
 def main():
     st.set_page_config(page_title='Smart Expense Tracker', page_icon='💸', layout='wide')
-    st.title('💸 Smart Expense Tracker')
+    st.title('Smart Expense Tracker')
     st.caption('Track, filter, and analyze spending from a single Streamlit dashboard.')
 
     tracker = ExpenseTracker('expenses.csv')
@@ -286,7 +287,7 @@ def main():
     if min_amount > 0:
         filtered_df = filtered_df[filtered_df['Amount'] >= min_amount].copy()
 
-    st.dataframe(filtered_df, use_container_width=True)
+    st.dataframe(filtered_df, width='stretch')
 
     st.subheader('Visual insights')
     chart_tabs = st.tabs(['Category totals', 'Spending trend', 'Category split', 'Expense distribution'])
@@ -328,7 +329,7 @@ def main():
             for category, amount in sorted(category_breakdown.items(), key=lambda x: x[1], reverse=True)
         ]
     )
-    st.dataframe(report_data, use_container_width=True)
+    st.dataframe(report_data, width='stretch')
 
 
 if __name__ == '__main__':
