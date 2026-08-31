@@ -233,7 +233,7 @@ class ExpenseTracker:
 
 
 def main():
-    st.set_page_config(page_title='Smart Expense Tracker', layout='wide')
+    st.set_page_config(page_title='', layout='wide')
     st.title('Smart Expense Tracker')
     st.caption('Track, filter, and analyze spending from a single Streamlit dashboard.')
 
