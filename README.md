@@ -230,3 +230,4 @@ The exact package requirements live in [`requirements.txt`](requirements.txt).
 
 Watch the complete project video: [Smart Expense Tracker demo](https://drive.google.com/file/d/10XmvjQaFzqHRRjjSg3e7P_88JZkqzwD4/view?usp=sharing)
 # Expense_Tracker_X
+# Expense_Tracker_X
